@@ -1,5 +1,5 @@
 .feature {
-    width: 1152px;
+    width: 100%;
     margin-top: 0px;
     margin-bottom: 165px;
     margin-left: auto;
@@ -23,6 +23,7 @@
 .feature-portifolio {
     display: flex;
     margin-left: 146px;
+    margin-top: 20px;
    
 }
 

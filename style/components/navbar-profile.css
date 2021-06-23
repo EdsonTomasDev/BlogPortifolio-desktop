@@ -1,18 +1,18 @@
 .navbar-profile {
-    width: 1152px;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     margin-left: auto;
     margin-right: auto;
     margin-top: 175px;
     margin-bottom: 0px;
-    background: #fff;
+    background: #FFF;
 
 }
 
 .navbar-profile img {
-    width: 243px;
-    height: 243px;
+    width: 21.09%;
+    height: 21.09%;
     margin-right: 149px;
     margin-left: 115px;
 }
