@@ -2,7 +2,6 @@
     width: 1152px;
     display: flex;
     justify-content: space-between;
-    background: red;
     margin-left: auto;
     margin-right: auto;
     margin-top: 175px;
@@ -17,7 +16,7 @@
     margin-left: 115px;
 }
 
-.navbar-profile__text h1{
+.navbar-profile__text1{
     font-family: 'Heebo', Arial, Helvetica, sans-serif;
     font-size: 44px;
     font-style: normal;
@@ -25,17 +24,17 @@
     text-align: left;
     color: #21243D;
     margin-bottom: 40px;
+    margin-left: 148px;
 }
 
-.navbar-profile__text p {
+.navbar-profile__text2 {
     font-family: 'Heebo', Arial, Helvetica, sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
     text-align: left;
     color: #21243D;
-}
-
-.navbar-profile__text h1, p {
     margin-left: 148px;
 }
+
+

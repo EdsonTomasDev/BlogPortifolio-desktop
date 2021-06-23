@@ -1,0 +1,28 @@
+.footer {
+  
+   
+}
+
+.footer__icon {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+   
+}
+
+.footer__icon img:not(:last-child) {
+    margin-right: 35px;
+}
+
+.footer__text p{
+    font-family: 'Heebo', Arial, Helvetica, sans-serif;
+    margin-top: 26px;
+    margin-bottom: 54px;
+    text-align: center;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    color: #21243d;
+
+}

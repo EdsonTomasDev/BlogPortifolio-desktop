@@ -1,6 +1,5 @@
 .feature {
     width: 1152px;
-    background:rebeccapurple;
     margin-top: 0px;
     margin-bottom: 165px;
     margin-left: auto;
@@ -16,6 +15,7 @@
     font-weight: 400;
     color: #21243D;
     margin-left: 148px;
+    margin-top: 30px;
     
 }
 

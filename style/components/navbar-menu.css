@@ -1,6 +1,5 @@
 .navbar-menu {
     width: 1152px;
-    background: blue;
     text-align: right;
     margin: 0 auto;
 }
@@ -13,6 +12,7 @@
     line-height: 29px;
     letter-spacing: 0px;
     text-align: right;
+    margin-top: 27px;
 
 }
 
