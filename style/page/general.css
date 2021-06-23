@@ -1,0 +1,42 @@
+body {
+background: #000;
+}
+
+.content {
+    background: #FFF;
+    width: 1152px;
+    padding-top: 27px;
+    padding-bottom: 50px;
+    margin: 0  auto;
+   
+}
+
+.min-resolution__celular {
+    color: #fff;
+}
+.min-resolution__celular {
+    display: none;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    height: 100vh;
+    align-items: center;
+}
+
+.content-resolution {
+    display: block;
+}
+
+@media screen and (max-width: 700px) {
+    .min-resolution__celular {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .content-resolution {
+        display: none;
+    }
+    
+}
